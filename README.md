@@ -23,15 +23,18 @@ Contém todo o código-fonte da análise, incluindo:
 
 📝 Relatório final com a conclusão e a recomendação sobre qual loja vender
 
-🖼️ Imagens geradas:
 
-faturamento_por_local_coluna.png → 📊 Faturamento total por local
+📊 Faturamento total por local
+<img width="1000" height="600" alt="faturamento_por_local_coluna" src="https://github.com/user-attachments/assets/fa057463-0e40-43a6-91e2-a90c506ebca6" />
 
-distribuicao_categorias_pizza.png → 🥧 Distribuição das categorias de produtos
+🥧 Distribuição das categorias de produtos
+<img width="1000" height="800" alt="distribuicao_categorias_pizza" src="https://github.com/user-attachments/assets/8a16dd62-fc17-4cae-bc82-fd0ade8acd05" />
 
-avaliacao_media_linha.png → 📈 Evolução da avaliação média ao longo do tempo
+📈 Evolução da avaliação média ao longo do tempo
+<img width="1200" height="600" alt="avaliacao_media_linha" src="https://github.com/user-attachments/assets/eec5f321-0821-48af-8872-55ea4c4cd79e" />
 
-vendas_geograficas_dispersao.png → 🌎 Distribuição geográfica das vendas
+🌎 Distribuição geográfica das vendas
+<img width="1000" height="800" alt="vendas_geograficas_dispersao" src="https://github.com/user-attachments/assets/60716401-c1f2-45ae-844e-b323ae23eaf3" />
 
 ⚙️ Como Executar a Análise
 
@@ -67,5 +70,7 @@ Maior concentração de vendas nas regiões Sudeste e Sul.
 
 📌 Recomendação final:
 💡 Vender a loja de Roraima (RR) devido ao baixo faturamento e alto custo de frete, redirecionando esforços para mercados mais lucrativos.
+
+
 
 📜 Para mais detalhes sobre metodologia, análises e resultados, consulte o notebook AluraStore.ipynb
